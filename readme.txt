@@ -4,3 +4,5 @@ git is a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick AND simple.
 Git can merge branchs.
+
+git is a very useful tool,i like it.
