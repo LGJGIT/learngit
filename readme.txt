@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 Git can merge branchs.
 this is a test.
 now add one line .  show this line in the localhost.
+git is a very useful tool,i like it.
