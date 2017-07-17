@@ -7,6 +7,13 @@ target/
 .factorypath
 .project
 .settings
+.settings/
+.project
+.idea/
+*.iml
+target
+.classpath
+.DS_Store
 .springBeans
 
 ### IntelliJ IDEA ###
