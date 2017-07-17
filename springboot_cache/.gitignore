@@ -15,8 +15,9 @@ target
 .classpath
 .DS_Store
 .springBeans
-../.idea
+
 ### IntelliJ IDEA ###
+../.idea
 .idea
 *.iws
 *.iml
